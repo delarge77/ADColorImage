@@ -41,8 +41,8 @@
 		8709BC871AAFBC4900F251D8 /* ADColorImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ADColorImageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8709BC8C1AAFBC4900F251D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8709BC8D1AAFBC4900F251D8 /* ADColorImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ADColorImageTests.m; sourceTree = "<group>"; };
-		8709BC971AAFBCF100F251D8 /* UIImage+ADColorImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImage+ADColorImage.h"; path = "UIImage+ADColorImage/UIImage+ADColorImage.h"; sourceTree = "<group>"; };
-		8709BC981AAFBCF100F251D8 /* UIImage+ADColorImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImage+ADColorImage.m"; path = "UIImage+ADColorImage/UIImage+ADColorImage.m"; sourceTree = "<group>"; };
+		8709BC971AAFBCF100F251D8 /* UIImage+ADColorImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIImage+ADColorImage.h"; path = "../UIImage+ADColorImage/UIImage+ADColorImage.h"; sourceTree = "<group>"; };
+		8709BC981AAFBCF100F251D8 /* UIImage+ADColorImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIImage+ADColorImage.m"; path = "../UIImage+ADColorImage/UIImage+ADColorImage.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
